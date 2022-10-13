@@ -1,7 +1,4 @@
-# Test GitLab
-# Created git repo through Web UI
-# git clone
+# Grokking the coding interview
+# https://designgurus.org/course/grokking-the-coding-interview
 
-print("Hello Python World")
-
-# New change for testing VS Code source control
+print("Hello Grokking")
